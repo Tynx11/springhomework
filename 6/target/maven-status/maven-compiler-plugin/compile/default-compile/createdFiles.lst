@@ -1,0 +1,7 @@
+ru\anton\drozdov\config\AppInit.class
+ru\anton\drozdov\config\WebConfig.class
+ru\anton\drozdov\controllers\CalculatorViewController.class
+ru\anton\drozdov\model\MathOper.class
+ru\anton\drozdov\controllers\RedirectController.class
+ru\anton\drozdov\util\ResultCalculation.class
+ru\anton\drozdov\config\WebSocketConfig.class

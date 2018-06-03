@@ -1,0 +1,15 @@
+ru\kpfu\itis\repository\UserRepository.class
+ru\kpfu\itis\security\AuthProviderImpl.class
+ru\kpfu\itis\service\impl\UserServiceImpl.class
+ru\kpfu\itis\model\Operation.class
+ru\kpfu\itis\form\UserRegistrationForm.class
+ru\kpfu\itis\model\User.class
+ru\kpfu\itis\model\enums\UserRole.class
+ru\kpfu\itis\service\CalculatorService.class
+ru\kpfu\itis\repository\OperationRepository.class
+ru\kpfu\itis\util\Transformer.class
+ru\kpfu\itis\service\impl\CalculatorServiceImpl.class
+ru\kpfu\itis\controller\CalculatorController.class
+ru\kpfu\itis\controller\AuthController.class
+ru\kpfu\itis\controller\SessionHistory.class
+ru\kpfu\itis\service\UserService.class

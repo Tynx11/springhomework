@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [03/Jun/2018:22:45:50 +0300] "GET /third_homework HTTP/1.1" 302 - http-bio-8050-exec-2 0
+0:0:0:0:0:0:0:1 - - [03/Jun/2018:22:45:50 +0300] "GET /third_homework/ HTTP/1.1" 302 - http-bio-8050-exec-3 99
+0:0:0:0:0:0:0:1 - - [03/Jun/2018:22:45:50 +0300] "GET /third_homework/login HTTP/1.1" 200 2197 http-bio-8050-exec-4 191
+0:0:0:0:0:0:0:1 - - [03/Jun/2018:22:45:51 +0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8050-exec-5 0
+0:0:0:0:0:0:0:1 - - [03/Jun/2018:22:46:05 +0300] "GET /third_homework/registration?_csrf=e15cb1e9-bfc0-4f57-9e87-f87d551054fe HTTP/1.1" 200 2444 http-bio-8050-exec-6 270
+0:0:0:0:0:0:0:1 - - [03/Jun/2018:22:47:10 +0300] "GET /third_homework/login HTTP/1.1" 200 2197 http-bio-8050-exec-1 324
+0:0:0:0:0:0:0:1 - - [03/Jun/2018:22:47:14 +0300] "GET /third_homework/registration?_csrf=09f52d82-8846-4216-beec-8d8c7d3d606c HTTP/1.1" 200 2444 http-bio-8050-exec-4 227
